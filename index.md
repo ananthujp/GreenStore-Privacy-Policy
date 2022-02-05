@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Reuben27/Dexarch-Privacy-P
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Dexarch Privacy Policy
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
