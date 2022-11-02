@@ -1,5 +1,5 @@
-<h1>Dexarch Privacy Policy</h1>
-<p>Last updated: February 05, 2022</p>
+<h1>GreenStore Privacy Policy</h1>
+<p>Last updated: November 03, 2022</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.termsfeed.com/blog/sample-privacy-policy-template/" target="_blank">Privacy Policy Template</a>.</p>
 <h1>Interpretation and Definitions</h1>
@@ -15,10 +15,10 @@
 <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
 </li>
 <li>
-<p><strong>Application</strong> means the software program provided by the Company downloaded by You on any electronic device, named Dexarch</p>
+<p><strong>Application</strong> means the software program provided by the Company downloaded by You on any electronic device, named GreenStore</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Dexarch.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to GreenStore.</p>
 </li>
 <li>
 <p><strong>Country</strong> refers to: Maharashtra,  India</p>
@@ -142,5 +142,5 @@
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: reuben.sd@iitgn.ac.in</li>
+<li>By email: ananthu.jp@iitgn.ac.in</li>
 </ul>
